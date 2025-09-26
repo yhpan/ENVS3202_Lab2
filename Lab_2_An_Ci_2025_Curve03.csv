@@ -1,4 +1,4 @@
-﻿Site,Date,LiCor Number,Leaf Code,Leaf age,Species_Age,PAR (μmol m-2 s-1),CO2 Reference (ppm),Ci (ppm),An (μmol m-2 s-1),Tleaf (℃),RH (%),Ci_Pa,Ci/Ca,Atmospheric Pressure (kPa)
+﻿Site,Date,LiCor_Number,Leaf_Code,Leaf_age,Species_Age,PAR,CO2_Reference,Ci,An,Tleaf,RH,Ci_Pa,CiCa_ratio,Atmospheric_Pressure
 Xishuangbanna,20190731,JW1,16HMS_B1_L1,M,HMS_M,2000,33,42.61524914,-0.596161143,31.46328354,79.67530823,3.951706344,1.270795346,92.80364227
 Xishuangbanna,20190731,JW1,16HMS_B1_L1,M,HMS_M,2000,66,65.34356016,-0.066254298,31.50250244,79.33170319,6.059655033,0.993282576,92.80358887
 Xishuangbanna,20190731,JW1,16HMS_B1_L1,M,HMS_M,2000,100,86.47781748,0.56245725,31.4668541,79.19006348,8.019702554,0.860794818,92.80192566
